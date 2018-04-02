@@ -108,6 +108,10 @@
             }
         }
     }
+    if (self.segmentButtonClick) {
+        self.segmentButtonClick(index);
+    }
+    
 }
 
 #pragma mark - action method
