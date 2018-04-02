@@ -4,8 +4,7 @@
 - 滑动的segmentBar
 
 ### 效果演示：
-<img src="https://raw.githubusercontent.com/ianisme/CoolSegmentBar/master/demo.gif"  alt="效果展示by ian" height="480" width="270" />
 
-![](https://raw.githubusercontent.com/ianisme/CoolSegmentBar/master/demo.gif =480x270)
+<img src="https://raw.githubusercontent.com/ianisme/CoolSegmentBar/master/demo.gif"  alt="效果展示by ian" height="480" width="270" />
 
 
